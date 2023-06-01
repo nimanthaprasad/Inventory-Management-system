@@ -1,0 +1,26 @@
+
+body{
+    background-image: url('../images/img01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Other background properties */
+  }
+.loginheader{
+    text-align: center;
+    color: blue;
+    margin-top: 5%;
+    
+}
+.loginheader h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.loginheader h3{
+    font-size: 50px;
+    color:brown;
+}
+.form{
+    text-align: center;
+    margin-top: 8%;
+    
+}
